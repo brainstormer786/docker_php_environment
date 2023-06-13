@@ -2,4 +2,4 @@
 
 To get started, **delete this file** and then do one of the following:
 
-- Clone your project or copy all of the files directly into this `app` directory and place publically accessible files here.
+- Clone your project or copy all of the files directly into `app` directory and place all publically accessible files in this directory.
