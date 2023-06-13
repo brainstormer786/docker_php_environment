@@ -1,4 +1,4 @@
-# Docker Php Environment 2023
+# Docker-Compose Php-8 Environment 2023
 It provides basic PHP environment by using Docker Compose. Included services are, NGINX, PHP 8.2 or above, MariaDB and PHPMyAdmin.
 
 ## Usage
