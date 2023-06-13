@@ -1,4 +1,4 @@
-# docker_php_environment
+# Docker Php Environment 2023
 It provides basic PHP environment by using Docker Compose. Included services are, NGINX, PHP 8.2 or above, MariaDB and PHPMyAdmin.
 
 ## Usage
@@ -16,4 +16,7 @@ Bringing up the Docker Compose network with `app` instead of just using `up`, en
 - **nginx** - `:80`
 - **mysql** - `:3306`
 - **php** - `:9000`
+- **phpmyadmin** - `:8080`
+
+To change php.ini configuration, edit the /docker/php/config/php.ini file. Have Fun!
 
